@@ -62,4 +62,6 @@ Enter your choice: 9
 - Applying unit-conversion formulas in a practical program
 
 ## Author
-Add your full name, department and institution here.
+Gbonu harmony kelechi 
+ND1 Mechatronics engineering 
+Yaba College of Technology (Yabatech)
