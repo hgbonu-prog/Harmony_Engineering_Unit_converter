@@ -1,0 +1,17 @@
+ENGINEERING UNIT CONVERTER — SAMPLE SESSION
+
+Enter your choice: 1
+Enter the value to convert: 50
+Result: 1.97 inches
+
+Enter your choice: 2
+Enter the value to convert: 25
+Result: 77.00 degrees Fahrenheit
+
+Enter your choice: 9
+===== CONVERSION HISTORY =====
+1. 50 (mm to inches) = 1.97 inches
+2. 25 (Celsius to Fahrenheit) = 77.00 degrees Fahrenheit
+
+Enter your choice: 10
+Thank you for using the converter. Goodbye!
